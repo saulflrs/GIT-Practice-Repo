@@ -7,3 +7,5 @@ learn GIT.
 
 From what i understand REPO is like a master file
 Commit is the equivalent of saving
+
+oh and then i can edit a file while im in it and then all i have to do ir commit again so that it will save my new changes
