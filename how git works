@@ -2,3 +2,5 @@ we begin with REPO
 then we have COMMITS which save our chagnges
 from this we get unique identifiers called a HASH
 then we have a BRANCH
+we begin with a MASTER ROOT to the tree to which we can add BRANCHES
+then we can change the file if we do not want to commit to the master by working on a BRANCh and not mess with the original 
