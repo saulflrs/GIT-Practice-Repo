@@ -5,6 +5,7 @@ then we have a BRANCH
 we begin with a MASTER ROOT to the tree to which we can add BRANCHES
 then we can change the file if we do not want to commit to the master by working on a BRANCh and not mess with the original 
 
+now ive made some chnages to master after having made some changes to ponies branch
 
 I am now working on a BRANCH and this change will be commited to it. 
 
