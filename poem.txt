@@ -1,0 +1,9 @@
+Life and all its stories
+they are but one and all the needs that we want in our life
+how can we be so blind?
+the one and only is the request that we might make?
+These goofy ideas all came to my head at the last moment in order for me to be able to experiment with Github and maybe finally 
+learn GIT. 
+
+From what i understand REPO is like a master file
+Commit is the equivalent of saving
