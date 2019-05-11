@@ -13,3 +13,6 @@ oh and then i can edit a file while im in it and then all i have to do ir commit
 after line 13 i have made some changes which will allow me to see what is going on in git. hopfully it all goes well. 
 
 adding the color yellow and blue would be weird
+
+
+now im doing crazy stuffs
